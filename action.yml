@@ -1,5 +1,5 @@
 # action.yml
-name: 'ImageMagick action'
+name: 'ImageMagick-pdf'
 description: 'Use ImageMagick in your repo as in your desktop'
 branding:
   icon: 'upload'  
