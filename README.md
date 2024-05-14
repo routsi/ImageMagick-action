@@ -7,7 +7,7 @@ With [ImageMagick](https://imagemagick.org/)
 
 ```yml
 - name: ImageMagick Action
-  uses: jruipinto/ImageMagick-action@v1
+  uses: routsi/ImageMagick-action@v1
   with:
     # ImageMagick command to be executed
     command: mogrify -path /my-path -auto-orient -resize 800x450 /my-path/*.* # default is mogrify -path src/assets/images -auto-orient -resize x500 src/assets/images*.*
